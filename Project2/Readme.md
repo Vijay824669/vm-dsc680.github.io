@@ -90,13 +90,6 @@ After training the model we then apply the evaluation measures to check how the 
 - **Confusion Matrix with Plot**
 - **ROC-AUC Curve**
 
-
-![image](https://user-images.githubusercontent.com/13950516/167274366-63d73cde-6fd4-4c5f-ba0d-d6fd8370bd7b.png)
-
-
-
-![image](https://user-images.githubusercontent.com/13950516/167274403-94211279-1daf-4646-a297-355a1e4edc49.png)
-
 ### Conclusion
 Overall, we found that Logistic Regression is the best model for analyzing Sentiments on the dataset.
 Logistic Regression is following the principle of Occam’s Razor which defines that for a particular problem statement if the data has no assumption, then the simplest model works the best. Since our dataset does not have any assumptions and Logistic Regression is a simple model, therefore the concept holds true for the above-mentioned dataset.
