@@ -15,14 +15,14 @@ January 2011 - October 2013
 As a Developer, I concentrated on data analysis, data modeling, and data migration, contributing to the successful delivery of complex data projects.
 
 ## Skills
-Oracle BI
-Tableau
-Python
-SQL
-Data Analysis
-Project Management
-Supervised Machine Learning
-Unsupervised Machine Learning
+ - Oracle BI
+ - Tableau
+ - Python
+ - SQL
+ - Data Analysis
+ - Project Management
+ - Supervised Machine Learning
+ - Unsupervised Machine Learning
 
 ## Work/Projects
 - Movie Recommendation
