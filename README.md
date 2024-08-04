@@ -7,10 +7,12 @@ In addition to my professional work, I am a graduate student at Bellevue Univers
 
 ## Previously...
  ### Technical Lead at Tata Consultancy Services
+ 
      October 2013 - May 2018
      In my role as a Technical Lead, I focused on data analytics and the Center of Excellence in Analytics work. During my tenure, I led various teams and analytical projects, driving data-       driven solutions.
 
  ### Developer at Cognizant Technology Services
+ 
      January 2011 - October 2013
      As a Developer, I concentrated on data analysis, data modeling, and data migration, contributing to the successful delivery of complex data projects.
 
@@ -34,6 +36,6 @@ In addition to my professional work, I am a graduate student at Bellevue Univers
   
 
 ## Contact Info
-*[LinkedIn](www.linkedin.com/in/VijaykumarMehtre)
-*[Email](Mehtre.Vijaykumar@gmail.com)
+* [LinkedIn](www.linkedin.com/in/VijaykumarMehtre)
+* [Email](Mehtre.Vijaykumar@gmail.com)
 
