@@ -35,6 +35,9 @@ Unsupervised Machine Learning
    https://github.com/Vijay824669/Portfolio/tree/main/AirBnBPricePrediction
 - Customer Term Deposit Predication
    https://github.com/Vijay824669/Portfolio/tree/main/Customer%20Term%20Deposit%20Prediction
+- Smart Approval AI
+   https://github.com/Vijay824669/vm-dsc680.github.io/tree/main/Project3
+  
 
 ## Contact Info
 - www.linkedin.com/in/VijaykumarMehtre
