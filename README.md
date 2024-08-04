@@ -25,3 +25,18 @@ Supervised Machine Learning
 Unsupervised Machine Learning
 
 ## Work/Projects
+- Movie Recommendation
+  https://github.com/Vijay824669/vm-dsc680.github.io/tree/main/Project%201
+- Twitter Sentiment Analysis
+   https://github.com/Vijay824669/vm-dsc680.github.io/tree/main/Project2
+- Digital Payment Fraud Prediction
+   https://github.com/Vijay824669/Portfolio/tree/main/DigitalPaymentFraudPrediction
+- AirBnB Listing Price Prediction
+   https://github.com/Vijay824669/Portfolio/tree/main/AirBnBPricePrediction
+- Customer Term Deposit Predication
+   https://github.com/Vijay824669/Portfolio/tree/main/Customer%20Term%20Deposit%20Prediction
+
+## Contact Info
+- www.linkedin.com/in/VijaykumarMehtre
+-  Mehtre.Vijaykumar@gmail.com
+
