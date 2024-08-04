@@ -6,12 +6,12 @@ For the past five years, I have been working as an Analytics Lead at PNC Bank in
 In addition to my professional work, I am a graduate student at Bellevue University, pursuing a Master of Science in Data Science, with an expected graduation in August 2024. I hold a Bachelor’s degree in Computer Engineering from Dr. Babasaheb Ambedkar Technological University and a Postgraduate MBA in Information and Technology Management from Pune University.
 
 ## Previously...
- ### Technical Lead at Tata Consultancy Services
+ - Technical Lead at Tata Consultancy Services
  
   October 2013 - May 2018
   In my role as a Technical Lead, I focused on data analytics and the Center of Excellence in Analytics work. During my tenure, I led various teams and analytical projects, driving data-       driven solutions.
 
- ### Developer at Cognizant Technology Services
+ - Developer at Cognizant Technology Services
  
   January 2011 - October 2013
   As a Developer, I concentrated on data analysis, data modeling, and data migration, contributing to the successful delivery of complex data projects.
